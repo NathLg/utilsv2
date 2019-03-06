@@ -1,0 +1,5 @@
+process.env.CODECOV_TOKEN = 89bfe551-5426-4fa6-b49b-241d85f06cea
+coverage:
+  parsers:
+    javascript:
+      enable_partials: no
