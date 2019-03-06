@@ -11,7 +11,6 @@ install:
 
 # Post-install test scripts.
 test_script:
-  process.env.CODECOV_TOKEN = 89bfe551-5426-4fa6-b49b-241d85f06cea
   # Output useful info for debugging.
   - node --version
   - npm --version
